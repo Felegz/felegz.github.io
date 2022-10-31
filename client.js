@@ -1,1 +1,1 @@
-window.location.href = 'https://bit.ly/kostya_kushko_resume';
+window.location.replace("https://bit.ly/kostya_kushko_resume");
