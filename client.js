@@ -1,1 +1,1 @@
-window.location.replace("https://drive.google.com/drive/folders/1Rxt29YpyncT8wnFqWyMBPiZ2jcRG_1yB");
+window.location.replace("https://rebrand.ly/kushko-cv");
